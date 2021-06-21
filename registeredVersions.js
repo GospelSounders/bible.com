@@ -1,1 +1,1 @@
-{"1817":{"local_title":"Swahili Revised Union Version","id":"1817","local_abbreviation":"SRUVDC"}}
+{"393":{"local_title":"Biblia Habari Njema","id":"393","local_abbreviation":"BHND"},"1817":{"local_title":"Swahili Revised Union Version","id":"1817","local_abbreviation":"SRUVDC"}}
