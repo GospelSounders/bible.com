@@ -1,1 +1,1 @@
-{"393":{"local_title":"Biblia Habari Njema","id":"393","local_abbreviation":"BHND"},"1817":{"local_title":"Swahili Revised Union Version","id":"1817","local_abbreviation":"SRUVDC"}}
+{"74":{"local_title":"Biblia Habari Njema","id":"74","local_abbreviation":"BHN"},"393":{"local_title":"Biblia Habari Njema","id":"393","local_abbreviation":"BHND"},"1817":{"local_title":"Swahili Revised Union Version","id":"1817","local_abbreviation":"SRUVDC"}}
