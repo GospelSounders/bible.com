@@ -1,1 +1,1 @@
-{}
+{"1817":{"local_title":"Swahili Revised Union Version","id":"1817","local_abbreviation":"SRUVDC"}}
